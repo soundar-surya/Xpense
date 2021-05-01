@@ -10,8 +10,9 @@ keeps track of expense &amp; more.
 
 ## Technologies
 * React-native
-* Node.js
+* golang
 * MongoDB
+* redis
 
 ## setup
 * [Setting up React-native development environment on Linux Ubuntu 20.04](https://aamnah.com/reactnative/setup-development-environment-react-native)
